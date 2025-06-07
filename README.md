@@ -10,15 +10,14 @@ Cyclistic, a bike-share company, seeks to increase annual memberships for sustai
 
 ## Dataset
 
-- **Source**: Divvy Bike Data Portal (Jan-Dec 2023)
+- **Source**: Divvy Bike Data Portal (Jan-Dec 2023). Download data [here]([https://example.com](https://divvy-tripdata.s3.amazonaws.com/index.html))
 - **License**: Open data license by Motivate International Inc.
-- **Size**: 5.7 million rows, \~1.3 GB (sample data included in `/data`)
+- **Size**: 5.7 million rows, \~1.3 GB 
 - **Link**: Divvy Data Portal
 - **Attributes**: ride_id, rideable_type, started_at, ended_at, start_station_name, start_station_id, end_station_name, end_station_id, start_lat, start_lng, end_lat, end_lng, member_casual, ride_length, day_of_week
 
 ## Repository Structure
 
-- `/data`: Sample dataset (`202301-divvy-tripdata.csv`)
 - `/scripts`:
   - `data_cleaning.sql`: SQL queries for cleaning and transforming data
   - `analysis.sql`: SQL queries for ride statistics, daily/hourly trends, etc.
@@ -82,8 +81,8 @@ View an interactive version of this analysis: Cyclistic Bike-Share: Data Analysi
 ## Contact
 
 - **Author**: Prince Edem Amenyenu
-- **Email**: \[datawithedem@gmail.com\]
-- **LinkedIn**: \[https://www.linkedin.com/in/prince-edem-amenyenu-6979591b8/\]
+- **Email**: [Email](datawithedem@gmail.com/)
+- **LinkedIn**: [LinkedIn](\[https://www.linkedin.com/in/prince-edem-amenyenu-6979591b8/)
 
 ## License
 
